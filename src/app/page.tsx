@@ -1,9 +1,7 @@
-import Image from "next/image";
+import ProductsView from "./marketplace/page";
 
 export default function Home() {
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen py-2">
-      Home
-    </div>
+    <ProductsView></ProductsView>
   );
 }
