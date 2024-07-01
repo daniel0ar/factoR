@@ -8,7 +8,7 @@ export default function InvoicePage() {
   return (
     <>
       <Helmet>
-        <title> Invoice | Minimal UI </title>
+        <title> Invoice | FactoR </title>
       </Helmet>
 
       <InvoiceView />
